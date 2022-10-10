@@ -98,6 +98,12 @@
 - Bio: UX Engineer, Traveler, Plant-Based Foodie
 - GitHub: [ahmadthames](https://github.com/ahmadthames)
 
+#### Name: [Habeeb Lateef](https://github.com/devhabeeblateef)
+- Place: Lagos, Nigeria
+- Bio: Web Developer
+- GitHub: [habeeblateef](https://github.com/devhabeeblateef)
+
+
 #### Name: [Aiman Abdullah Anees](https://github.com/aimananees)
 - Place: Hyderabad, India
 - Bio: iOS Developer
